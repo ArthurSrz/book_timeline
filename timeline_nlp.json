@@ -14,11 +14,11 @@
     "events": [
       {
         "media": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/800px-Ferdinand_de_Saussure_by_Jullien_Restored.png",
-          "caption": "The Swiss linguist Ferdinand de Saussure (1857–1913) (<a target=\"_blank\" href='https://en.wikipedia.org/wiki/Ferdinand_de_Saussure'>credits</a>)"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Crowd_outside_nyse.jpg/640px-Crowd_outside_nyse.jpg",
+          "caption": "Krach boursier à Wall Street"
         },
         "start_date": {
-          "year": "1916"
+          "year": "1929"
         },
         "text": {
           "headline": "Ferdinand de Saussure<br/>Cours de Linguistique Générale",
