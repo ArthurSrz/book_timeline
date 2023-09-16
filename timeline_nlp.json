@@ -27,28 +27,28 @@
       },
       {
         "media": {
-          "url": "https://historyofinformation.com/images/Screen_Shot_2020-09-20_at_10.28.36_AM_big.png",
-          "caption": "Kathleen Britten, Xenia Sweeting and Andrew Booth working on ARC in December 1946 (<a target=\"_blank\" href='https://www.dcs.bbk.ac.uk/site/assets/files/1029/50yearsofcomputing.pdf'>credits</a>)"
+          "url": "",
+          "caption": ""
         },
         "start_date": {
-          "year": "1948"
+          "year": "1934"
         },
         "text": {
-          "headline": "First NLP application",
-          "text": "<p>This is how the story goes:</p><p>Andrew D. Booth who, in 1944, had just gained a PhD studying the crystal structure of explosives and already experimenting with the automation of the large sets of calculations needed to determine crystal structures from X-ray images. Andrew Booth asked if the Rockefeller Foundation would fund a computer for London University. Weaver said that the Rockefeller Foundation could not fund a computer for mathematical calculations but that he had begun to think about using a computer to carry out natural language translation and that the Foundation probably could fund a computer for research in that area.</p><p>Thus Birkbeck University of London became for the next fifteen years a leading centre for natural language research. Initially the tiny memory on computers meant it was very difficult to do any serious processing but Andrew Booth and his research students developed techniques for parsing text and also for building dictionaries.</p>"
+          "headline": "Naissance de F.G Thomson",
+          "text": ""
         }
       },
       {
         "media": {
-          "url": "https://cdn-images-1.medium.com/max/652/1*8G5Jjppyxy96yGmYk0YwoQ.png",
-          "caption": "Warren Weaver (<a target=\"_blank\" href='https://cdn-images-1.medium.com/max/652/1*8G5Jjppyxy96yGmYk0YwoQ.png'>credits</a>)"
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/franz.png",
+          "caption": "Franz"
         },
         "start_date": {
-          "year": "1949",
-          "month": "7"
+          "year": "1945",
+          "month": ""
         },
         "text": {
-          "headline": "Weavers Memorandum<br>'Translation'",
+          "headline": "Naissance Franz",
           "text": "<p>In july 1949 Warren Weaver sent to some 30 acquaintances a memorandum on the possibilities of using the newly invented digital computers on the task of translating documents. Said to be probably the single most influential publication in the early days of machine translation, it formulated goals and methods before most people had any idea of what computers might be capable of.</p>"
         }
       },
