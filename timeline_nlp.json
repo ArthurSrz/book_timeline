@@ -27,6 +27,22 @@
       },
       {
         "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "1939"
+        },
+        "end_date":{
+          "year":"1945"
+        },
+        "text": {
+          "headline": "Seconde Guerre mondiale",
+          "text": ""
+        }
+      },
+      {
+        "media": {
           "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/fgthomson.png",
           "caption": ""
         },
