@@ -96,6 +96,20 @@
       },
       {
         "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/ailefroide_franz.png",
+          "caption": "Franz"
+        },
+        "start_date": {
+          "year": "1954",
+          "month": ""
+        },
+        "text": {
+          "headline": "Franz s'arrache de la normalité à Ailefroide",
+          "text": ""
+        }
+      },
+      {
+        "media": {
           "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/second_classification.png",
           "caption": ""
         },
