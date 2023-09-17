@@ -70,6 +70,20 @@
       },
       {
         "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/grandes_jorasses_1945.jpg",
+          "caption": "Franz"
+        },
+        "start_date": {
+          "year": "1945",
+          "month": ""
+        },
+        "text": {
+          "headline": "Rebuffat et Frendo réalise le deuxième ascension d'éperon Walker",
+          "text": ""
+        }
+      },
+      {
+        "media": {
           "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/ombre.png",
           "caption": "L'ombre"
         },
