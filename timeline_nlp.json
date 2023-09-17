@@ -14,8 +14,8 @@
     "events": [
       {
         "media": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Crowd_outside_nyse.jpg/640px-Crowd_outside_nyse.jpg",
-          "caption": "Krach boursier à Wall Street"
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/premiere_hallucination.jpg",
+          "caption": "Samervell et Norton"
         },
         "start_date": {
           "year": "1924"
