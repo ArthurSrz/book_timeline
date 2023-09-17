@@ -69,6 +69,19 @@
       },
       {
         "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/first_classification.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "1949"
+        },
+        "text": {
+          "headline": "Etablissement de la table périodique des hallucinations par Francis Scott",
+          "text": ""
+        }
+      },
+      {
+        "media": {
           "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/franz.png",
           "caption": "Franz"
         },
