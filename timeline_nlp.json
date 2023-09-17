@@ -76,7 +76,7 @@
           "year": "1949"
         },
         "text": {
-          "headline": "Etablissement de la table périodique des hallucinations par Francis Scott",
+          "headline": "Etablissement du tableau périodique des hallucinations par Francis Scott",
           "text": ""
         }
       },
@@ -92,6 +92,20 @@
         "text": {
           "headline": "Naissance de Franz",
           "text": ""
+        }
+      },
+      {
+        "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/second_classification.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "1952",
+          "month": ""
+        },
+        "text": {
+          "headline": "F.G Thomson découvre le tableau périodique des hallucinations",
+          "text": "En 1952, le tableau périodique ne comporte que 3 particules fondamentales"
         }
       },
       {
