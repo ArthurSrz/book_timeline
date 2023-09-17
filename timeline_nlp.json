@@ -18,6 +18,19 @@
           "caption": "Krach boursier à Wall Street"
         },
         "start_date": {
+          "year": "1924"
+        },
+        "text": {
+          "headline": "Première hallucination répertoriée",
+          "text": "Somervell et Norton témoigne de la première hallucination après avoir atteint l'altitude de 8570m dans le face Nord de l'Everest"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Crowd_outside_nyse.jpg/640px-Crowd_outside_nyse.jpg",
+          "caption": "Krach boursier à Wall Street"
+        },
+        "start_date": {
           "year": "1929"
         },
         "text": {
@@ -78,7 +91,7 @@
           "month": ""
         },
         "text": {
-          "headline": "Rebuffat et Frendo réalise le deuxième ascension d'éperon Walker",
+          "headline": "Rebuffat et Frendo réalise le deuxième ascension de l'éperon Walker",
           "text": ""
         }
       },
