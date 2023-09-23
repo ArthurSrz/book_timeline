@@ -11,18 +11,6 @@
           "text": "<p>par Paul Dolorens</p>"
         }
     },
-    "eras" : {
-      "start_date" : {
-        "year": "1897"
-      },
-      "end_date" : {
-        "year": "1932"
-      },
-      "text" : {
-        "headline": "Découverte de l'atome",
-        "text": "Période de recherche et de découverte de la structure de l'atome"
-      }
-    },
     "events": [
       {
         "media": {
