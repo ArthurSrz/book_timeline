@@ -191,6 +191,20 @@
           "headline": "Franz dirige sa première course",
           "text": "Alors qu'il n'a seulement 20 ans, Franz se retrouve à la tête d'une expédition de 6 personnes. Fruit du destin, il restera à jamais un stratège qui attaque les montagnes comme Napoléon envahissait les nations"
         }
+      },
+      {
+        "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/rubik_periodik.png",
+          "caption": "Image du Rubik periodik"
+        },
+        "start_date": {
+          "year": "1955",
+          "month": ""
+        },
+        "text": {
+          "headline": "F.G Thomson publie The Rubik's periodik Method dans The Review of International Behavior",
+          "text": "F.G Thomson rédige la papier dans lequel il met à jour une nouvelle méthode graphique pour découvrir des nouvelles particules fondamentales dans la tableau périodique des hallucinations de Francis Scott"
+        }
       }
     ]
 }
