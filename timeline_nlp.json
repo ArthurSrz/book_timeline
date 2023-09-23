@@ -56,6 +56,22 @@
       },
       {
         "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/atom_discovery.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "1897"
+        },
+        "end_date":{
+          "year":"1932"
+        },
+        "text": {
+          "headline": "Période de découverte de l'atome",
+          "text": ""
+        }
+      },
+      {
+        "media": {
           "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/fgthomson.png",
           "caption": ""
         },
