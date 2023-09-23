@@ -177,6 +177,20 @@
           "headline": "Découverte de l'hallucination manquante",
           "text": ""
         }
+      },
+      {
+        "media": {
+          "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/franz_premiere_direction.png",
+          "caption": "Membres de la première expédition dirifée par Franz"
+        },
+        "start_date": {
+          "year": "1965",
+          "month": ""
+        },
+        "text": {
+          "headline": "Franz dirige sa première course",
+          "text": "Alors qu'il n'a seulement 20 ans, Franz se retrouve à la tête d'une expédition de 6 personnes. Fruit du destin, il restera à jamais un stratège qui attaque les montagnes comme Napoléon envahissait les nations"
+        }
       }
     ]
 }
